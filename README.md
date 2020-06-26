@@ -1,4 +1,6 @@
 # GitHub Explorer
+Projeto feito durante o módulo "Primeiro projeto com React" do bootcamp da Rocketseat.
+
 * Busca repositórios do github.
 * Mostra os dados de stars, forks e issues de um repositório.
 * Redireciona para as páginas de issues e pull requests do repositório.

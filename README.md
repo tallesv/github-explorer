@@ -1,9 +1,10 @@
 # GitHub Explorer
 * Busca repositórios do github.
-* Mostra os dados de stars, forks e issues de um repositório. 
+* Mostra os dados de stars, forks e issues de um repositório.
 * Redireciona para as páginas de issues e pull requests do repositório.
 
-
+<img src="src/assets/example1.png" width="290">
+<img src="src/assets/example2.png" width="290">
 
 ## Excutando a aplicação
 É necessário primeiramente executar o comando "yarn" para a instalação das dependências, e depois "yarn start" para executar a aplicação.

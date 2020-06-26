@@ -1,4 +1,4 @@
-#GitHub Explorer
+# GitHub Explorer
 * Busca repositórios do github.
 * Mostra os dados de stars, forks e issues de um repositório. 
 * Redireciona para as páginas de issues e pull requests do repositório.
